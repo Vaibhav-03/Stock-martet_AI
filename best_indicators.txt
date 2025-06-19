@@ -1,0 +1,12 @@
+volume_vwap
+trend_ema_fast
+trend_ichimoku_conv
+trend_visual_ichimoku_a
+others_cr
+trend_psar_down
+volatility_kcl
+trend_sma_slow
+trend_ichimoku_a
+volatility_kch
+trend_ichimoku_b
+momentum_kama

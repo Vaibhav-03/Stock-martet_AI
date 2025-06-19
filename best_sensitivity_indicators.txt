@@ -1,0 +1,12 @@
+volatility_kcl
+volatility_kch
+volatility_dcl
+trend_stc
+trend_ema_slow
+trend_ema_fast
+momentum_kama
+trend_ichimoku_conv
+volume_obv
+volume_vpt
+others_cr
+trend_sma_fast

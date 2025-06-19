@@ -207,7 +207,7 @@ def plot_correlation_values(csv_file,ticker):
     # Visualize correlations with heatmaps
     plt.figure(figsize=(12, 8))
     sns.heatmap(pearson_df, annot=True, cmap='coolwarm', vmin=-1, vmax=1, center=0)
-    plt.title("Pearson Correlations: TCS Prices/Returns vs. Technical Indicators")
+    plt.title(f"Pearson Correlations: {ticker} Prices/Returns vs. Technical Indicators")
     plt.tight_layout()
     plt.savefig(f"{ticker}_pearson_heatmap.png")
     plt.show()
